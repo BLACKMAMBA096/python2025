@@ -17,7 +17,7 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
    
 ## Team A1d1l
 
-1.Aidil
+1.Aidil0
 
 ## KPDBOYZ
 
@@ -34,5 +34,5 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 
 ## BLACKMAMBA
 
-1.Danish
-2.Fateh
+1. Danish
+2. Fateh
