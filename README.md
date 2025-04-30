@@ -36,3 +36,4 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 
 1. Danish
 2. Fateh
+3. Iman
